@@ -1,0 +1,6 @@
+   <!-- Simple Chatbot Integration -->
+    <div style="position: fixed; bottom: 20px; right: 20px; z-index: 999;">
+        <script src='https://cdn.jotfor.ms/agent/embedjs/0196be096c0679fbb75e8da0523d467e404d/embed.js?skipWelcome=1&maximizable=1'></script>
+    </div>
+</body>
+</html>
